@@ -18,7 +18,7 @@ Table of Contents
 
 1. Installation:
 SliceFlow is distributed as a standalone executable file. Follow these steps to install:
-• Download the SliceFlow installer.
+• Download the SliceFlow installer https://drive.google.com/uc?export=download&id=1gmEY2CtNaYSjbVTYf20FInCPhrR55HFD 
 • Run the installer and follow the on-screen instructions.
 • Once installed, launch SliceFlow.
 
